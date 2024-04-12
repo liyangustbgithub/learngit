@@ -5,3 +5,4 @@ Git tracks changes of files.
 Modified from computer, merge diff together.
 Creating a new branch is quick and simple.
 Try new Fast forward.
+git stash
